@@ -1,0 +1,183 @@
+{
+  "login": [
+    {
+      "username": "kkjdlaK",
+      "password": "SKJK",
+      "email": "SAJKDAL",
+      "id": 1
+    },
+    {
+      "username": "kkjdlaK",
+      "password": "SKJK",
+      "email": "SAJKDAL",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "appointmentId": "",
+      "patientName": "",
+      "doctorName": "",
+      "country": "",
+      "departMent": "",
+      "appointmentDate": "",
+      "appointmentTime": "",
+      "stetus": "",
+      "age": "",
+      "avatar": "",
+      "id": 1
+    },
+    {
+      "appointmentId": "",
+      "patientName": "",
+      "doctorName": "",
+      "country": "",
+      "departMent": "",
+      "appointmentDate": "",
+      "appointmentTime": "",
+      "stetus": "",
+      "age": "",
+      "avatar": "",
+      "id": 2
+    },
+    {
+      "appointmentId": "",
+      "patientName": "",
+      "doctorName": "",
+      "country": "",
+      "departMent": "",
+      "appointmentDate": "",
+      "appointmentTime": "",
+      "stetus": "",
+      "age": "",
+      "avatar": "",
+      "id": 3
+    },
+    {
+      "appointmentId": "",
+      "patientName": "",
+      "doctorName": "kajdka",
+      "country": "",
+      "departMent": "",
+      "appointmentDate": "",
+      "appointmentTime": "",
+      "stetus": "",
+      "age": "",
+      "avatar": "",
+      "id": 4
+    }
+  ],
+  "patient": [
+    {
+      "name": "mahesh mali",
+      "age": 24,
+      "address": "ind",
+      "phone": 123233322421,
+      "email": "mali@email.com",
+      "avatar": "assets/img/doctor-thumb-06.jpg",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "suraj",
+      "age": 24,
+      "address": "india",
+      "phone": 123322421,
+      "email": "suraj@email.com",
+      "avatar": "assets/img/doctor-thumb-07.jpg",
+      "id": 3
+    },
+    {
+      "fName": "iudfiuiuef",
+      "lName": "erg",
+      "age": "12",
+      "phone": "44343343435",
+      "email": "jasd@email.com",
+      "address": "iushfpiuhsdfaseg",
+      "avatar": "assets/img/doctor-thumb-03.jpg",
+      "id": 4
+    },
+    {
+      "fName": "juebUWE",
+      "lName": "GFOAEW",
+      "age": "",
+      "phone": "",
+      "email": "",
+      "address": "INDIA",
+      "avatar": "assets/img/doctor-thumb-04.jpg",
+      "id": 5
+    },
+    {
+      "fName": "",
+      "lName": "",
+      "age": "",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "avatar": "",
+      "id": 6
+    },
+    {
+      "fName": "",
+      "lName": "",
+      "age": "",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "avatar": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "docprof": "",
+      "address": "",
+      "avatar": "",
+      "id": 8
+    }
+  ],
+  "doctor": [
+    {
+      "name": "",
+      "docprof": "",
+      "address": "",
+      "avatar": "",
+      "id": 1
+    },
+    {
+      "name": "Dr. mali roy",
+      "docprof": "master",
+      "address": "india",
+      "avatar": "C:\\fakepath\\Screenshot from 2023-01-03 10-38-06.png",
+      "id": 2
+    }
+  ],
+  "department": [
+    {
+      "departmentName": "Doctor",
+      "stetus": "active",
+      "id": 1
+    },
+    {
+      "departmentName": "Doctor2",
+      "stetus": "inactive",
+      "id": 2
+    },
+    {
+      "departmentName": "u7u7y",
+      "stetus": "option2",
+      "id": 3
+    },
+    {
+      "departmentName": "76r76",
+      "stetus": "option1",
+      "id": 4
+    },
+    {
+      "departmentName": "uiyguy7g",
+      "stetus": "inactive",
+      "id": 5
+    }
+  ]
+}
